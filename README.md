@@ -79,6 +79,12 @@ I'm **Akuthota Gayathri**, a final-year B.Tech student in **AI & Data Science** 
 > Real-time dashboard tracking user drop-offs using Firebase & React frontend
 > Multi-channel recovery workflows reducing simulated churn by 25%
 
+
+### 📊 [Call Centre Performance Dashboard](https://github.com/Gayithri1509/call-center-performance-dasdboard)
+> Interactive Excel dashboard analyzing 1,000 call centre records
+> — KPI Cards | Pivot Tables | Slicers | Revenue & Rating Analysis
+> Built with Microsoft Excel
+
 ---
 
 ## 💼 Experience
