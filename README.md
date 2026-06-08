@@ -85,6 +85,12 @@ I'm **Akuthota Gayathri**, a final-year B.Tech student in **AI & Data Science** 
 > — KPI Cards | Pivot Tables | Slicers | Revenue & Rating Analysis
 > Built with Microsoft Excel
 
+
+
+### 🍫 [Chocolate Sales Analytics Dashboard](https://github.com/Gayithri1509/Chocolate_Sales_Dashboard_Powerbi)
+> End-to-end Power BI dashboard analyzing $141M chocolate sales
+> across geographies, products & salespersons
+> Built with Power BI | DAX | Power Query | Data Modeling
 ---
 
 ## 💼 Experience
