@@ -55,15 +55,11 @@ I'm **Akuthota Gayathri**, a final-year B.Tech student in **AI & Data Science** 
 
 ## 🚀 Featured Projects
 
-### 📋 [HR Analytics System](https://github.com/Gayithri1509/SQL-Projects)
-> Architected a normalized HR database with 5+ tables for 100+ employees
-> Used CTEs, CASE logic & RANK() OVER (PARTITION BY) to classify performance grades
-> Automated 5+ recurring HR reports with stored procedures — cutting manual effort by ~40%
-
-### 🛒 [Brazilian E-Commerce Analytics](https://github.com/Gayithri1509/SQL-Projects)
-> Analyzed a real Kaggle dataset — 9 tables, 100K+ rows
-> Surfaced delivery delays & top revenue-generating seller segments using JOINs & window functions
-> Resolved real data import issues and documented findings professionally
+### 🛒 [Olist E-Commerce SQL Analytics](https://github.com/Gayithri1509/olist-ecommerce-sql-project)
+> Designed a 9-table relational schema and wrote 85+ SQL queries against a real 100K+ row Brazilian e-commerce dataset (Kaggle)
+> Built a full data-cleaning pipeline — NULL handling, duplicate removal, outlier detection (IQR), and referential integrity checks
+> Applied window functions (RANK, NTILE, LAG) for RFM customer segmentation, retention cohorts & seller performance ranking
+> Found late deliveries correlate with a ~1.6-star drop in review scores — turning a logistics metric into a customer-experience insight
 
 ### 🤖 [Ocean Data Chatbot](https://github.com/Gayithri1509/chatbot)
 > NLP chatbot retrieving structured oceanographic data with 90%+ query accuracy
