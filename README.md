@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- Visitor Counter -->
+
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gayithri1509&color=e91e8c&style=flat&label=Profile+Views)
+
+
 
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=E91E8C&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Gayathri+%F0%9F%91%8B;Data+Analyst+%26+AI+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Raw+Data+into+Real+Insights+%F0%9F%93%8A" alt="Typing SVG" />
@@ -15,6 +19,7 @@
 I'm **Akuthota Gayathri**, a final-year B.Tech student in **AI & Data Science** at Dhanalakshmi Srinivasan University, Trichy (CGPA: 8.87/10), passionate about turning raw data into clear, business-ready insights.
 
 - 📊 Skilled in building **SQL databases**, **analytics dashboards**, and **data visualizations** from scratch
+- 🧠 Built an end-to-end **financial analytics platform** — ETL pipelines, ML clustering, and a REST API serving real market data
 - 🏆 Completed real-world simulations with **Deloitte Forage** and **GE Aerospace Forage**
 - 🤖 Experienced **AI Intern** at Ediglobe & Zhagaram Technologies
 - 🥉 Won **3rd Prize** at a college-level ERP-based technical event
@@ -27,33 +32,143 @@ I'm **Akuthota Gayathri**, a final-year B.Tech student in **AI & Data Science** 
 
 **📊 Data & Analytics**
 
+
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+
+
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+
+
+
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+**🧠 ML & Backend**
+
+
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+
+
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+
+
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+
 
 **💻 Programming & Web**
 
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
 
 **⚙️ Tools & Platforms**
 
+
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📈 [Nifty 100 Financial Intelligence Platform](https://github.com/Gayithri1509/Nifty-100-Financial-Intelligence-Platform)
+> End-to-end financial analytics platform covering all 92 Nifty 100 companies — from raw Excel ingestion to a production REST API
+> Built a full ETL pipeline (16 data-quality rules) and a financial ratio engine computing ROE, D/E, CAGRs & a composite quality score
+> Designed a configurable stock screener with sector and peer-group comparisons across 10 sectors
+> Applied **KMeans clustering** to group companies by financial behavior, with automated outlier detection and correlation analysis
+> Built a **FastAPI** backend (17 endpoints) with auto-generated OpenAPI docs + Postman collection, and an interactive **Streamlit** dashboard
+> 142 passing tests (pytest) across ETL, KPI, data-quality, and API layers, with an HTML test report
+> Uncovered and documented 8+ genuine source-data quality issues (duplicated records, missing companies, anomalous ratios) rather than papering over them
 
 ### 🛒 [Olist E-Commerce SQL Analytics](https://github.com/Gayithri1509/olist-ecommerce-sql-project)
 > Designed a 9-table relational schema and wrote 85+ SQL queries against a real 100K+ row Brazilian e-commerce dataset (Kaggle)
@@ -127,7 +242,11 @@ I'm **Akuthota Gayathri**, a final-year B.Tech student in **AI & Data Science** 
 
 <div align="center">
 
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gayithri1509&theme=tokyonight&hide_border=true)
+
+
 
 </div>
 
@@ -137,7 +256,11 @@ I'm **Akuthota Gayathri**, a final-year B.Tech student in **AI & Data Science** 
 
 <div align="center">
 
+
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Gayithri1509&theme=darkhub&no-frame=true&row=1&column=7)
+
+
 
 </div>
 
@@ -147,9 +270,21 @@ I'm **Akuthota Gayathri**, a final-year B.Tech student in **AI & Data Science** 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-akuthota-06773a2a5)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayithri1509)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayathriakuthota110@gmail.com)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/gayathri-akuthota-06773a2a5)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/Gayithri1509)
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:gayathriakuthota110@gmail.com)
 
 </div>
 
